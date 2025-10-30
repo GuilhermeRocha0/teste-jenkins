@@ -11,7 +11,7 @@ const Header = () => {
         padding: '10px'
       }}
     >
-      <h1>Meu App em Context API - teste</h1>
+      <h1>Meu App em Context API</h1>
     </header>
   )
 }
